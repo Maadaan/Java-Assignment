@@ -32,3 +32,9 @@ class TestClass implements TestInterface
         d.show(); 
     } 
 } 
+
+
+OUTPUT:
+
+16
+Default Method Executed
