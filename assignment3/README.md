@@ -10,7 +10,7 @@ int[] intArray = new int[]{ 1,2,3,4,5,6,7,8,9,10 };
 
 
 
-#For Each Loop
+# For Each Loop
 The Java for-each loop traverses the array or collection until the last element. For each element, it stores the element in the variable and executes the body of the for-each loop.
 
 
